@@ -1,0 +1,25 @@
+{
+  "name": "landing-api_rest",
+  "version": "1.0.0",
+  "description": "Este proyecto contiene una landing page que se conetara y consumira una API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boomcrash/Landing-API_REST.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "html",
+    "css"
+  ],
+  "author": "Milton Elizalde alexmol_14@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boomcrash/Landing-API_REST/issues"
+  },
+  "homepage": "https://github.com/boomcrash/Landing-API_REST#readme"
+}
